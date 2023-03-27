@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/parinz1234/poc-puppeteer/issues"
   },
-  "homepage": "https://github.com/parinz1234/poc-puppeteer#readme"
+  "homepage": "https://github.com/parinz1234/poc-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^19.8.0"
+  }
 }
